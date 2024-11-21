@@ -35,5 +35,5 @@ Tabela de conteúdos
 <img src="./src/design/navegando.gif">
 
 <p >Para uma melhor experiência acessem:
-      <a  href=https://carvalhorp2022.github.io/advice-generator-app/ target="_blank">Link de Conselhos</a>
+      <a  href=https://carvalhorp2022.github.io/buscando-api-no-github/ target="_blank">Buscar com API</a>
 </p>
