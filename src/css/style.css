@@ -30,6 +30,12 @@ main {
   color: #FFFFFF;
 }
 
+.devicon-github-original:hover{
+  cursor: pointer;
+  color: hotpink;
+  transition: ease-in-out 0.2s;
+}
+
 .section{
   padding: 70px 0;
 }
@@ -148,9 +154,4 @@ main {
 
 .container .profile-data.hide{
   display: none;
-}
-@media (max-width: 250px){
-  .container header #input-search {
-    width: 400px;
-  }
 }
