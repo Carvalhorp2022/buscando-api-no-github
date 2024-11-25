@@ -129,7 +129,7 @@ main {
 
 .container .profile-data .repositories h2{
   margin-bottom: 30px;
-  text-align: center;
+  text-align: center; 
 }
 
 .container .profile-data .repositories ul{
@@ -140,10 +140,10 @@ main {
 
 .container .profile-data .repositories ul li a{
   padding: 20px;
-  border: 1px solid grey;  
+  border: 3px solid grey;  
   margin: 20px;
   display: block;
-  border-radius: 7px;
+  border-radius: 8px;
   transition: 0.3s ease-in-out;
 }
 
@@ -152,6 +152,42 @@ main {
   color: #fff
 }
 
+.container .profile-data .repositories ul li .repo-icons{
+  display: flex;
+  flex-direction: row;
+}
+
+.container .profile-data .repositories ul li .repo-icons div{
+  color: #ffffff;
+  background-color: #7925C6;
+  border: 1px solid hotpink;
+  border-radius: 7px;
+  padding: 4px;
+  margin: 2px;
+}
+
 .container .profile-data.hide{
   display: none;
 }
+
+.container .profile-data .events{
+  width: 100%;
+  height: 100%;
+}
+
+.container .profile-data .events li{
+  display:flex;
+  justify-content:left;
+  align-items: center;
+}
+
+.container .profile-data .events h2{
+  font-weight: 600;
+  padding-bottom: 20px;
+}
+
+.container .profile-data .events .event-title{
+  font-weight: bold;
+  padding: 10px;
+}
+
