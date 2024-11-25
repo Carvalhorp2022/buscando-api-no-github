@@ -32,8 +32,11 @@ Tabela de conteúdos
 ## Corrigindo.
 <img src="./src/design/correcaoDoNome.gif">
 
-## Navegando pela Aplicação.
+## Navegando pela Aplicação ininialmente.
 <img src="./src/design/navegando.gif">
+
+## Projeto concluído.
+<img src="./src/design/projetoConcluido.gif">
 
 <p >Para uma melhor experiência acessem:
       <a  href=https://carvalhorp2022.github.io/buscando-api-no-github/ target="_blank">Buscar com API</a>
